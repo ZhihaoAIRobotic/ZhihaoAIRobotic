@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/ZhihaoAIRobotic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhihaoAIRobotic&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,43CBFF,9708CC " />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhihaoAIRobotic&show_icons=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,43CBFF,8533D7 " />
 </a>
 
 <br/>
