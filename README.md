@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 Reach me through: 
--->
 - 🔭 I’m currently working on AI&Robots
+-->
+
 
 <br/>
 
